@@ -26,15 +26,15 @@ def classificacao_imc(imc):
     if imc is None:
         return 'Por favor, digite um número válido'
     if imc <= 18.4:
-        return 'MAGREZA!'
+        return 'Sua classificação é: MAGREZA!'
     elif imc <= 24.9:
-        return 'NORMAL!'
+        return 'Sua classificação é: NORMAL!'
     elif imc <= 29.9:
-        return 'SOBREPESO!. Grau de obesidade: I'
+        return 'Sua classificação é: SOBREPESO!. Grau de obesidade: I'
     elif imc <= 39.9:
-        return 'OBESIDADE!. Grau de obesidade: II'
+        return 'Sua classificação é: OBESIDADE!. Grau de obesidade: II'
     else:
-        return 'OBESIDADE GRAVE. Grau de obesidade: III'
+        return 'Sua classificação é: OBESIDADE GRAVE. Grau de obesidade: III'
 
 
 def calculo(entrada_altura, entrada_peso, resultado, msg2):
