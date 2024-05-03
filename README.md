@@ -8,7 +8,7 @@ utilizei a interface gráfica Tkinter, para dar uma visualização melhor do pro
 1. Clone o repositório ou copie o código Python para seu ambiente.
 2. Execute o arquivo Python em sua IDE ou através do terminal.
 
-## Funbcionamento do Programa
+## Funcionamento do Programa
 
 Ao rodar o código, é apresentado ao usuário uma tela onde ele colocará as informações pedidas (Altura e Peso), ao clicar em "Calcular", o programa irá
 fazer o calculo do IMC com base nas informações passadas, logo abaixo, aparecerá uma mensagem indicando o IMC da pessoa, e mais a baixo, qual a sua
