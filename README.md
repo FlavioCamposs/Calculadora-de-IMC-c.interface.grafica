@@ -15,6 +15,12 @@ fazer o calculo do IMC com base nas informações passadas, logo abaixo, aparece
 classificação (Magreza, Normal, Sobrepeso, Obesidade, Obesidade Grave). Caso a pessoa esteja acima do peso, é mostrado também o nivel de obesidade da
 pessoa (I, II, III).
 
+## Foi utilizado:
+
+1. Modulação para separar as funções do arquivo principal
+2. Funções para validação e tratamento de erros do usuário (caso tenha)
+3. Estruturas de controle para indicar a classificação do usuário após o cálculo
+
 ## Exemplo de uso:
 
 ![...](https://i.imgur.com/RrvIXOk.png)
